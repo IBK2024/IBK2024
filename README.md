@@ -1,5 +1,15 @@
 <div align="center">
 
-# Search Engine API
+# IBK2024
 
 </div>
+
+## About Me
+I am a young programmer and I like to build innovative applications.
+### Programming languages I know
+- Python🐍
+- HTML
+- Javascript
+- CSS
+- Node JS
+- React
