@@ -13,3 +13,4 @@ I am a young programmer and I like to build innovative applications.
 - CSS
 - Node JS
 - React
+- Tailwind css 
