@@ -6,6 +6,7 @@
 
 ## About Me
 I am a young programmer and I like to build innovative applications.
+
 ### Programming languages I know
 - Python🐍
 - HTML
@@ -13,4 +14,5 @@ I am a young programmer and I like to build innovative applications.
 - CSS
 - Node JS
 - React
-- Tailwind css 
+- Tailwind css
+- Assembly
